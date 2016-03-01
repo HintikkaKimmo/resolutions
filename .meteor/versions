@@ -63,6 +63,7 @@ spacebars@1.0.8-beta.11
 spacebars-compiler@1.0.8-beta.11
 standard-minifier-css@1.0.3-beta.11
 standard-minifier-js@1.0.3-beta.11
+stolinski:stylus-multi@1.4.3
 templating@1.1.6-beta.11
 templating-tools@1.0.1-beta.11
 tracker@1.0.10-beta.11
