@@ -1,5 +1,7 @@
 accounts-base@1.2.3-beta.11
+accounts-oauth@1.1.9-beta.11
 accounts-password@1.1.5-beta.11
+accounts-twitter@1.0.6
 accounts-ui@1.1.6
 accounts-ui-unstyled@1.1.9-beta.11
 allow-deny@1.0.1-beta.11
@@ -58,6 +60,8 @@ mongo@1.1.4-beta.11
 mongo-id@1.0.1
 npm-bcrypt@0.7.8_2
 npm-mongo@1.4.40-beta.11
+oauth@1.1.7-beta.11
+oauth1@1.1.6-beta.11
 observe-sequence@1.0.8-beta.11
 ordered-dict@1.0.4
 promise@0.5.2-beta.11
@@ -80,6 +84,7 @@ stolinski:stylus-multi@1.4.3
 templating@1.1.6-beta.11
 templating-tools@1.0.1-beta.11
 tracker@1.0.10-beta.11
+twitter@1.1.6-beta.11
 ui@1.0.8
 underscore@1.0.5-beta.11
 url@1.0.6-beta.11
